@@ -1,0 +1,21 @@
+task main()
+{
+	playSound(soundBeepBeep);
+	sleep(2000);
+	playSound(soundLowBuzz);
+	sleep(2000);
+	playSound(soundBlip);
+	sleep(2000);
+	playSound(soundLowBuzzShort);
+	sleep(2000);
+	playSound(soundDownwardTones);
+	sleep(2000);
+	playSound(soundShortBlip);
+	sleep(2000);
+	playSound(soundException);
+	sleep(2000);
+	playSound(soundUpwardTones);
+	sleep(2000);
+	playSound(soundFastUpwardTones);
+	sleep(2000);
+}
